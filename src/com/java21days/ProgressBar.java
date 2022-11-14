@@ -1,4 +1,7 @@
 package com.java21days;
 
-public class ProgressBar {
+import javax.swing.*;
+
+public class ProgressBar extends JFrame {
+
 }
